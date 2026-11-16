@@ -57,11 +57,11 @@ Paid Pinterest Business — **free in our launcher**, paid on the official site.
 
 ## Screenshots
 
-![Pinterest](preview.png)
+<p align="center"><img src="preview.png" alt="Pinterest" width="420"></p>
 
 Aivora launcher hub — **Social premium** → **Pinterest**:
 
-![Aivora Launcher](assets/launcher-main.png)
+<p align="center"><img src="assets/launcher-main.png" alt="Aivora Launcher" width="720"></p>
 
 ## FAQ
 
